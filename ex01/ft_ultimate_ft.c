@@ -6,7 +6,7 @@
 /*   By: tlmatlou <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/10 08:53:56 by tlmatlou          #+#    #+#             */
-/*   Updated: 2020/07/10 10:48:37 by tlmatlou         ###   ########.fr       */
+/*   Updated: 2020/07/10 11:43:24 by tlmatlou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include<unistd.h>
@@ -36,11 +36,4 @@ void ft_ultimate_ft(int *********nbr)
 
 	nbr =&p8;
 
-}
-int main()
-{
-	int *********i;
-
-	ft_ultimate_ft(i);
-	return 0;
 }
